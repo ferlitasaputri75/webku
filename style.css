@@ -67,7 +67,7 @@ body{
 .kiri{
     width:70%;
     float:left;
-    margin:auto;'
+    margin:auto;
     background:#fff;
     height:420px;
 }
@@ -83,7 +83,6 @@ body{
 .undecor{
     text-decoration:none;
 }
-
 
 .footer{
     width:90%;
